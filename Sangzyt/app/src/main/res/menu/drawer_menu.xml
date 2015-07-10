@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu_mylibrary"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/nav_drawer_library" />
+        <item
+            android:id="@+id/nav_menu_feel"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/nav_drawer_feel" />
+        <item
+            android:id="@+id/nav_menu_sangzyt"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/nav_drawer_sangzyt" />
+    </group>
+</menu>

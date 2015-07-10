@@ -1,0 +1,24 @@
+<resources>
+    
+    <string name="app_name">Sangzyt</string>
+    
+    <string name="action_settings">Settings</string>
+
+    <!-- Toolbar Titles -->
+
+
+    <!--MyLibrary Tabs-->
+    <string name="song_tab_mylibrary">Songs</string>
+    <string name="albums_tab_mylibrary">Albums</string>
+    <string name="artists_tab_mylibrary">Artists</string>
+
+    <!--Navigation Drawer Menu Items-->
+    <string name="nav_drawer_library">My Library</string>
+    <string name="nav_drawer_sangzyt">Go Sangzyt</string>
+    <string name="nav_drawer_feel">I am feeling &#8230;</string>
+
+    <!-- Accessibility Strings -->
+    <string name="drawer_open_content_desc">Sliding panel is now open</string>
+    <string name="drawer_close_content_desc">Sliding panel is now closed</string>
+
+</resources>
